@@ -1,8 +1,8 @@
-
+var n='';
 function prime(){
 
-    var n='';
- n = document.getElementById("number").value;
+    
+ n = document.getElementById("text").value;
 
 
 for(i=2;i<n;i++){
